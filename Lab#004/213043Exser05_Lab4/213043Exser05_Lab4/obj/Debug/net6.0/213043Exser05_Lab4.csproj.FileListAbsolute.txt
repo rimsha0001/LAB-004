@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\bin\Debug\net6.0\213043Exser05_Lab4.exe
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\bin\Debug\net6.0\213043Exser05_Lab4.deps.json
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\bin\Debug\net6.0\213043Exser05_Lab4.runtimeconfig.json
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\bin\Debug\net6.0\213043Exser05_Lab4.dll
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\bin\Debug\net6.0\213043Exser05_Lab4.pdb
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.AssemblyInfo.cs
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.dll
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\refint\213043Exser05_Lab4.dll
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.pdb
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\213043Exser05_Lab4.genruntimeconfig.cache
+C:\Users\HP\source\repos\213043Exser05_Lab4\213043Exser05_Lab4\obj\Debug\net6.0\ref\213043Exser05_Lab4.dll

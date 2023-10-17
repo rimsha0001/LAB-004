@@ -1,0 +1,14 @@
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\bin\Debug\net6.0\Lab4_Q3.exe
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\bin\Debug\net6.0\Lab4_Q3.deps.json
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\bin\Debug\net6.0\Lab4_Q3.runtimeconfig.json
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\bin\Debug\net6.0\Lab4_Q3.dll
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\bin\Debug\net6.0\Lab4_Q3.pdb
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.AssemblyInfoInputs.cache
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.AssemblyInfo.cs
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.csproj.CoreCompileInputs.cache
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.dll
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\refint\Lab4_Q3.dll
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.pdb
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\Lab4_Q3.genruntimeconfig.cache
+C:\Users\213001\source\repos\Lab4_Q3\Lab4_Q3\obj\Debug\net6.0\ref\Lab4_Q3.dll
